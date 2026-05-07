@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/apple/Documents/ClaudeWorkspace/hookUsage/.venv/bin/python /Users/apple/Documents/ClaudeWorkspace/hookUsage/main.py"
+          }
+        ]
+      }
+    ]
+  }
+}
