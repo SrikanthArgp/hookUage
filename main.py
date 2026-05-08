@@ -16,7 +16,9 @@ def play(wav_path: Path) -> None:
 
 def main():
     wav_path = Path(__file__).parent / "ulala.wav"
+    print("before ullala")
     play(wav_path)
+    print("after ullala")
 
 
 if __name__ == "__main__":
